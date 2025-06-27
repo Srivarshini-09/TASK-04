@@ -21,10 +21,10 @@ This task involves summarizing and analyzing tabular data using aggregate functi
 
 ✅The SQL file (`TASK-04.sql`) performs the following:
 
-To understand and apply SQL aggregate functions like SUM(), COUNT(), AVG(), MAX(), and MIN().
-To group data using the GROUP BY clause.
-To filter grouped data using the HAVING clause.
-To perform data summarization and analysis from raw tables.
+- To understand and apply SQL aggregate functions like SUM(), COUNT(), AVG(), MAX(), and MIN().
+- To group data using the GROUP BY clause.
+- To filter grouped data using the HAVING clause.
+- To perform data summarization and analysis from raw tables.
 
 ## 🧪 How to Run the Project
 
